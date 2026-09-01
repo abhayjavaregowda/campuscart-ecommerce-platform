@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Mechanical keyboard</title><desc id="desc">A compact mechanical keyboard with highlighted keys.</desc>
+  <rect width="800" height="600" rx="40" fill="#e7ebe3"/>
+  <ellipse cx="400" cy="487" rx="290" ry="35" fill="#17221d" opacity=".10"/>
+  <path d="m128 217 544-18 62 236-650 20 44-238Z" fill="#17221d" stroke="#17221d" stroke-width="14" stroke-linejoin="round"/>
+  <path d="m146 237 508-16 42 188-574 18 24-190Z" fill="#617068"/>
+  <g fill="#f5f3ec">
+    <path d="m165 258 53-2 7 40-56 2-4-40Zm74-2 53-2 8 39-55 2-6-39Zm75-3 53-1 9 39-55 2-7-40Zm76-2 54-2 10 39-56 2-8-39Zm77-3 54-1 11 39-57 2-8-40Zm78-2 55-2 12 39-57 2-10-39Z"/>
+    <path d="m174 318 59-2 7 42-62 2-4-42Zm81-3 59-2 8 42-61 2-6-42Zm81-2 60-2 10 42-63 2-7-42Zm83-3 60-2 11 42-63 2-8-42Zm83-2 61-2 12 42-64 2-9-42Z"/>
+    <path d="m185 380 73-2 7 25-77 2-3-25Zm98-3 242-8 8 27-246 7-4-26Zm267-8 87-3 9 25-90 3-6-25Z"/>
+  </g>
+  <path d="m390 251 54-2 10 39-56 2-8-39Zm112 57 61-2 12 42-64 2-9-42Z" fill="#d8f078"/>
+  <path d="M216 477h368" stroke="#1e6d4e" stroke-width="12" stroke-linecap="round"/>
+</svg>

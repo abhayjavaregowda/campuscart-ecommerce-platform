@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Insulated bottle</title><desc id="desc">A reusable insulated water bottle.</desc>
+  <rect width="800" height="600" rx="40" fill="#e7ebe3"/>
+  <ellipse cx="400" cy="520" rx="130" ry="25" fill="#17221d" opacity=".10"/>
+  <rect x="338" y="80" width="124" height="68" rx="20" fill="#17221d"/>
+  <rect x="318" y="126" width="164" height="52" rx="23" fill="#617068" stroke="#17221d" stroke-width="10"/>
+  <path d="M304 184c0-25 20-45 45-45h102c25 0 45 20 45 45l32 77v206c0 45-36 81-81 81h-94c-45 0-81-36-81-81V261l32-77Z" fill="#f5f3ec" stroke="#17221d" stroke-width="14"/>
+  <path d="M279 292h242v152H279z" fill="#1e6d4e"/>
+  <path d="M338 368c33-43 83-43 124 0-41 43-91 43-124 0Z" fill="#d8f078"/>
+  <path d="M304 222h192" stroke="#617068" stroke-width="10" stroke-linecap="round"/>
+  <path d="M328 488h144" stroke="#d9ddd6" stroke-width="10" stroke-linecap="round"/>
+</svg>

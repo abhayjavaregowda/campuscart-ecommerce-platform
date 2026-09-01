@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">USB-C study lamp</title><desc id="desc">An adjustable desk lamp casting a warm study light.</desc>
+  <rect width="800" height="600" rx="40" fill="#e7ebe3"/>
+  <path d="m491 177 184 254H389l102-254Z" fill="#d8f078" opacity=".32"/>
+  <ellipse cx="401" cy="512" rx="225" ry="29" fill="#17221d" opacity=".10"/>
+  <path d="M303 446 383 258M383 258l110-99" fill="none" stroke="#17221d" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="383" cy="258" r="28" fill="#1e6d4e" stroke="#17221d" stroke-width="10"/>
+  <path d="m459 118 136 72-62 118-172-91 44-83c11-21 35-28 54-16Z" fill="#1e6d4e" stroke="#17221d" stroke-width="14" stroke-linejoin="round"/>
+  <path d="m374 218 157 83" stroke="#d8f078" stroke-width="15" stroke-linecap="round"/>
+  <path d="M216 484c0-35 28-63 63-63h106c35 0 63 28 63 63v28H216v-28Z" fill="#617068" stroke="#17221d" stroke-width="14"/>
+  <rect x="281" y="469" width="102" height="14" rx="7" fill="#d8f078"/>
+  <path d="M611 188h49M632 139v98" stroke="#d8f078" stroke-width="12" stroke-linecap="round"/>
+</svg>

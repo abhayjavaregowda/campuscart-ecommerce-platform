@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Everyday backpack</title><desc id="desc">A modern green backpack with a front pocket.</desc>
+  <rect width="800" height="600" rx="40" fill="#e7ebe3"/>
+  <ellipse cx="400" cy="515" rx="210" ry="30" fill="#17221d" opacity=".10"/>
+  <path d="M296 235c0-88 38-137 104-137s104 49 104 137" fill="none" stroke="#17221d" stroke-width="30" stroke-linecap="round"/>
+  <path d="M258 238c-38 44-56 106-56 187v54" fill="none" stroke="#617068" stroke-width="32" stroke-linecap="round"/>
+  <path d="M542 238c38 44 56 106 56 187v54" fill="none" stroke="#617068" stroke-width="32" stroke-linecap="round"/>
+  <path d="M244 247c0-48 39-87 87-87h138c48 0 87 39 87 87v225c0 37-30 67-67 67H311c-37 0-67-30-67-67V247Z" fill="#1e6d4e" stroke="#17221d" stroke-width="14"/>
+  <path d="M278 286h244" stroke="#d8f078" stroke-width="14" stroke-linecap="round"/>
+  <rect x="292" y="338" width="216" height="142" rx="34" fill="#f5f3ec" stroke="#17221d" stroke-width="12"/>
+  <path d="M328 380h144M328 420h96" stroke="#1e6d4e" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="400" cy="245" r="9" fill="#d8f078"/>
+</svg>
