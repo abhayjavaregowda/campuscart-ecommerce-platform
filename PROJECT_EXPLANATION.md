@@ -1,4 +1,4 @@
-# Project Explanation (Beginner Friendly)
+# CampusCart Project Explanation
 
 Use this file to understand the project and prepare a clear interview explanation. Focus on the request flow and the reason each class exists.
 
@@ -220,7 +220,7 @@ The repository initially contained working auth basics only. The `product-servic
 
 You should still read the code and be able to trace one request end-to-end. In an interview, be transparent that AI helped generate code and explain how you verified it.
 
-## What to understand for an interview
+## Key Technical Concepts
 
 Be ready to explain these points in your own words:
 
@@ -239,6 +239,6 @@ Be ready to explain these points in your own words:
 13. Why the demo payment is safe for a university project but not a real payment integration.
 14. How Docker Compose provides service names such as `mysql`, `mongodb`, and `product-service` on one network.
 
-## A short interview answer
+## Architecture Summary
 
 > I built a small e-commerce system with separate auth, product, and order services. Auth hashes passwords with BCrypt and issues signed JWTs. Product service owns searchable catalog and locked stock updates in MySQL, while reviews are MongoDB documents. Order service scopes carts and history using the JWT email, snapshots price data, calls product service to reserve inventory, and compensates stock on failure/cancellation. The React frontend calls each REST API, and Docker Compose runs the services and databases together. I used automated integration tests for the important request flows and kept payments intentionally simulated so no real card data is handled.
