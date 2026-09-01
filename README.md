@@ -89,6 +89,4 @@ Start the backend services with `mvn spring-boot:run` (or the auth Maven wrapper
 
 See [ARCHITECTURE.md](ARCHITECTURE.md) for service boundaries and [PROJECT_EXPLANATION.md](PROJECT_EXPLANATION.md) for a beginner-friendly interview explanation.
 
-## Intentional scope
 
-This is a two-day university-safe implementation, not a production marketplace. It does not include Kubernetes, an API gateway, distributed transactions, real payment card handling, admin role screens, email delivery, or production observability.
